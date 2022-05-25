@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Adham Elsharkawy
+- 👨‍💻 I’m Software engineer , B. SC. in Computer Science passionate about Mobile Programming and problem-solving with a good experience in flutter development [dart, OOP, getX, Bloc]. 
+- 📞 contact me @
+- 💬 Gmail    : eelsharkawya@gmail.com 
+- 💬 LinkedIn : https://www.linkedin.com/in/adham-elsharkawy-265951176/ 
+- 💬 FaceBook : https://www.facebook.com/Adhamatef01/
